@@ -181,12 +181,12 @@ THOSE_THINGS_YOU_TYPE_IN_BUILD_SETTINGS
     LOCAL_APPS_DIR = /Applications
     LOCAL_DEVELOPER_DIR = /Library/Developer
     LOCAL_LIBRARY_DIR = /Library
-    FooH_O_TYPE = mh_execute
-    Foo_OS_X_PRODUCT_BUILD_VERSION = 13C64
-    Foo_OS_X_VERSION_ACTUAL = 1092
-    Foo_OS_X_VERSION_MAJOR = 1090
-    Foo_OS_X_VERSION_MINOR = 0902
     MODULE_CACHE_DIR = /Users/Foo-daddie/Library/Developer/Xcode/DerivedData/ModuleCache
+    MACH_O_TYPE = mh_execute
+    MAC_OS_X_PRODUCT_BUILD_VERSION = 13C64
+    MAC_OS_X_VERSION_ACTUAL = 1092
+    MAC_OS_X_VERSION_MAJOR = 1090
+    MAC_OS_X_VERSION_MINOR = 0902
     NATIVE_ARCH = armv7
     NATIVE_ARCH_32_BIT = i386
     NATIVE_ARCH_64_BIT = x86_64
@@ -197,7 +197,7 @@ THOSE_THINGS_YOU_TYPE_IN_BUILD_SETTINGS
     OBJROOT = /Users/Foo-daddie/Library/Developer/Xcode/DerivedData/Foo-app/Build/Intermediates
     ONLY_ACTIVE_ARCH = NO
     OPTIMIZATION_LEVEL = 0
-    OS = FooOS
+    OS = MACOS
     OSAC = /usr/bin/osacompile
     OTHER_CFLAGS = -DNS_BLOCK_ASSERTIONS=1
     OTHER_CPLUSPLUSFLAGS = -DNS_BLOCK_ASSERTIONS=1
