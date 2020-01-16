@@ -25,7 +25,7 @@ THOSE_THINGS_YOU_TYPE_IN_BUILD_SETTINGS
     ARCHS_UNIVERSAL_IPHONE_OS = armv7 armv7s arm64
     ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon
     ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage
-    AVAILABLE_PLATFORMS = iphonesimulator Fooosx iphoneos
+    AVAILABLE_PLATFORMS = iphonesimulator macosx iphoneos
     BUILD_COMPONENTS = headers build
     BUILD_DIR = /Users/Foo-daddie/Library/Developer/Xcode/DerivedData/Foo-app/Build/Products
     BUILD_ROOT = /Users/Foo-daddie/Library/Developer/Xcode/DerivedData/Foo-app/Build/Products
