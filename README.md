@@ -311,7 +311,7 @@ THOSE_THINGS_YOU_TYPE_IN_BUILD_SETTINGS
     PRECOMP_DESTINATION_DIR=/Users/Foo-daddie/Develop/tools/Scipio/DerivedData/Scipio/Build/Intermediates.noindex/Scipio.build/Debug-iphonesimulator/Scipio.build/PrefixHeaders
     PRESERVE_DEAD_CODE_INITS_AND_TERMS=NO
     PRIVATE_HEADERS_FOLDER_PATH=Scipio.app/PrivateHeaders
-    PRODUCT_BUNDLE_IDENTIFIER=com.workday.Scipio
+    PRODUCT_BUNDLE_IDENTIFIER=com.yadkwor.Scipio
     PRODUCT_BUNDLE_PACKAGE_TYPE=APPL
     PRODUCT_MODULE_NAME=Scipio
     PRODUCT_NAME=Scipio
@@ -416,7 +416,7 @@ THOSE_THINGS_YOU_TYPE_IN_BUILD_SETTINGS
     TOOLCHAINS="org.swift.50320190830a com.apple.dt.toolchain.XcodeDefault"
     TOOLCHAIN_DIR=/Library/Developer/Toolchains/swift-5.0.3-RELEASE.xctoolchain
     TREAT_MISSING_BASELINES_AS_TEST_FAILURES=NO
-    TeamIdentifierPrefix=798R94V79M.
+    TeamIdentifierPrefix=21919919
     UID=502
     UNLOCALIZED_RESOURCES_FOLDER_PATH=Scipio.app
     UNSTRIPPED_PRODUCT=NO
